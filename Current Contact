@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+
+<head>
+    <title>Crozzo</title>
+
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <nav>
+        <div class="logo">
+            <img src="Images/CrozzoLogo.png">
+        </div>
+
+        <div class="links">
+            <a href="CrozzoHome.html">Home</a>
+            <a href="CrozzoShop.html">Shop</a>
+            <a href="CrozzoAbout.html">About</a>
+            <a href="CrozzoContact.html">Contact</a>
+        </div>
+    </nav>
+
+    <div class="contactbox1">
+        <p>Do not even email us</p>
+    </div>
+    <div class="box2">
+        <p>You want to buy my NFTsYou want to buy my NFTsYou want to buy my NFTsYou want to buy my NFTsYou want to buy
+            my NFTsYou want to buy my NFTsYou want to buy my NFTsYou want to buy my NFTsYou want to buy my NFTsYou want
+            to buy my NFTs</p>
+    </div>
+</body>
