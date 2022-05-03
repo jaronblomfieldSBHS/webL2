@@ -22,11 +22,14 @@
 
     <div class="shopbox1">
         <h1>Shop</h1>
-        <a href="CrozzoHome.html"><img src="Images/DenjiNFT.png"></a>
-        <a href="CrozzoShop.html"><img src="Images/JokerNFT.png"></a>
-        <a href="CrozzoAbout.html"><img src="Images/MegamindNFT.png"></a>
+        <div class="product1">
+            <a href="CrozzoHome.html"><img src="Images/DenjiNFT.png">Chainsaw</a></div>
+        <div class="product1">
+            <a href="CrozzoShop.html"><img src="Images/JokerNFT.png">Society</a></div>
+        <div class="product1">
+            <a href="CrozzoAbout.html"><img src="Images/MegamindNFT.png">No Maidens</a></div>
     </div>
-    <div class="box2">
+    <div class="shopbox2">
         <img src="Images/GigaAd.png">
     </div>
 </body>
