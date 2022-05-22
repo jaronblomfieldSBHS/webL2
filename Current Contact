@@ -8,24 +8,30 @@
 
 <body>
     <nav>
-        <div class="logo">
-            <img src="Images/CrozzoLogo.png">
-        </div>
-
-        <div class="links">
-            <a href="CrozzoHome.html">Home</a>
-            <a href="CrozzoShop.html">Shop</a>
-            <a href="CrozzoAbout.html">About</a>
-            <a href="CrozzoContact.html">Contact</a>
-        </div>
+        <img class="logo" src="Images/CrozzoLogo.png">
+        <ul>
+            <li><a href="CrozzoHome.html">Home</a></li>
+            <li><a href="CrozzoShop.html">Shop</a></li>
+            <li><a href="CrozzoContact.html">Contact/About</a></li>
+        </ul>
     </nav>
 
     <div class="contactbox1">
-        <p>Do not even email us</p>
+        <div class="contactcontainer1">
+            <h1>Email Address</h1>
+            <p>CrozzoNFT@gmail.com</p>
+        </div>
+        <div class="contactcontainer2">
+            <h1>Phone Number</h1>
+            <p>505-842-5662</p>
+        </div>
+        <div class="contactcontainer3">
+            <h1>Twitter Account</h1>
+            <p>@CrozzoNFT</p>
+        </div>
     </div>
-    <div class="box2">
-        <p>You want to buy my NFTsYou want to buy my NFTsYou want to buy my NFTsYou want to buy my NFTsYou want to buy
-            my NFTsYou want to buy my NFTsYou want to buy my NFTsYou want to buy my NFTsYou want to buy my NFTsYou want
-            to buy my NFTs</p>
+    <div class="contactbox2">
+        <p>Here in the contact page, you can contact our business and send us your inquiries. Whether it be through
+            Email or even a phone number.</p>
     </div>
 </body>
