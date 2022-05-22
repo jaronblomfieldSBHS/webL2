@@ -8,24 +8,23 @@
 
 <body>
     <nav>
-        <div class="logo">
-            <img src="Images/CrozzoLogo.png">
-        </div>
-
-        <div class="links">
-            <a href="CrozzoHome.html">Home</a>
-            <a href="CrozzoShop.html">Shop</a>
-            <a href="CrozzoAbout.html">About</a>
-            <a href="CrozzoContact.html">Contact</a>
-        </div>
+        <img class="logo" src="Images/CrozzoLogo.png">
+        <ul>
+            <li><a href="CrozzoHome.html">Home</a></li>
+            <li><a href="CrozzoShop.html">Shop</a></li>
+            <li><a href="CrozzoContact.html">Contact/About</a></li>
+        </ul>
     </nav>
 
     <div class="homebox1">
-        <a href="CrozzoShop.html"><img src="Images/TrashAd.png"></a>
+        <img class="ad" src="Images/TrashAd.png">
     </div>
-    <div class="box2">
-        <p>You want to buy my NFTsYou want to buy my NFTsYou want to buy my NFTsYou want to buy my NFTsYou want to buy
-            my NFTsYou want to buy my NFTsYou want to buy my NFTsYou want to buy my NFTsYou want to buy my NFTsYou want
-            to buy my NFTs</p>
+    <div class="homebox2">
+        <p>Looking for epic gamer NFT's to disappoint your parents with? Crozzo is the right place for you! Even though
+            our market is quite limited in stock, we believe that quality is the better option. By having these limited
+            NFT's, the prestige of owning one is raised, the rarity takes the show.</p>
+
+        <p>Don't be afraid to have a look around our website, and if need be you can contact us through our contact
+            page.</p>
     </div>
 </body>
