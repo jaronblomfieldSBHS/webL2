@@ -8,7 +8,7 @@
 
 <body>
     <nav>
-        <img class="logo" src="Images/CrozzoLogo.png">
+        <img class="logo" src="Images/CrozzoLogo.png" alt="Website logo">
         <ul>
             <li><a href="CrozzoHome.html">Home</a></li>
             <li><a href="CrozzoShop.html">Shop</a></li>
@@ -31,7 +31,6 @@
         </div>
     </div>
     <div class="contactbox2">
-        <p>Here in the contact page, you can contact our business and send us your inquiries. Whether it be through
-            Email or even a phone number.</p>
+        <img class="ad2" src="Images/AboutAd.png" alt="Ad about logo meaning">
     </div>
 </body>
