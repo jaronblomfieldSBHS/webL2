@@ -8,7 +8,7 @@
 
 <body>
     <nav>
-        <img class="logo" src="Images/CrozzoLogo.png">
+        <img class="logo" src="Images/CrozzoLogo.png" alt="Website logo">
         <ul>
             <li><a href="CrozzoHome.html">Home</a></li>
             <li><a href="CrozzoShop.html">Shop</a></li>
@@ -17,14 +17,14 @@
     </nav>
 
     <div class="homebox1">
-        <img class="ad" src="Images/TrashAd.png">
+        <img class="ad" src="Images/TrashAd.png" alt="two trash cans one gold one normal, gold one is superior">
     </div>
     <div class="homebox2">
         <p>Looking for epic gamer NFT's to disappoint your parents with? Crozzo is the right place for you! Even though
-            our market is quite limited in stock, we believe that quality is the better option. By having these limited
-            NFT's, the prestige of owning one is raised, the rarity takes the show.</p>
-
-        <p>Don't be afraid to have a look around our website, and if need be you can contact us through our contact
-            page.</p>
+            our market is quite limited in stock, we believe that quality is better than quantity. By having these
+            limited
+            NFT's, the prestige of owning one will already shine through!</p>
+        <p>Don't be afraid to have a look around our website and if need be, you can contact us through our contact
+            page, where we will ignore you.</p>
     </div>
 </body>
