@@ -1,0 +1,20 @@
+        //slideshow images
+        var imgs = ["Images/GigaAd.png", "Images/AboutAd.png"];
+        //slideshow number
+        var slideNum = 0;
+
+        //function changes image title and price
+        function imgChange() {
+          var imgLoc = document.getElementById('img');
+
+          if (slideNum >= imgs.length - 1) {
+            slideNum = 0;
+          } else {
+            slideNum++;
+          }
+
+          imgLoc.src = imgs[slideNum];
+          console.log(slideNum);
+          document.getElementById('title').innerHTML = "titles"[slideNum];
+          document.getElementById('price').innerHTML = "prices"[slideNum];
+        }
