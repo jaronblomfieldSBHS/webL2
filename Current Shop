@@ -4,12 +4,12 @@
     <title>Crozzo</title>
 
     <link rel="stylesheet" href="styles.css">
-    <script src="Cart.js"></script>
+    <script src="slide.js"></script>
 </head>
 
 <body>
     <nav>
-        <img class="logo" src="Images/CrozzoLogo.png">
+        <img class="logo" src="Images/CrozzoLogo.png" alt="Website logo">
         <ul>
             <li><a href="CrozzoHome.html">Home</a></li>
             <li><a href="CrozzoShop.html">Shop</a></li>
@@ -20,22 +20,27 @@
     <div class="shopbox1">
         <h1>Shop</h1>
         <div class="product1">
-            <img src="Images/DenjiNFT.png">
+            <img src="Images/DenjiNFT.png" alt="An NFT that Crozzo sells">
             <h1>Chainsaw Dude</h1>
             <p>$150 Morbillion Bucks</p>
         </div>
         <div class="product2">
-            <img src="Images/JokerNFT.png">
+            <img src="Images/JokerNFT.png" alt="An NFT that Crozzo sells">
             <h1>Society Bro</h1>
             <p>$1000 Morbillion Bucks</p>
         </div>
         <div class="product3">
-            <img src="Images/MegamindNFT.png">
+            <img src="Images/MegamindNFT.png" alt="An NFT that Crozzo sells">
             <h1>Literally You</h1>
             <p>$200 Morbillion Bucks</p>
         </div>
     </div>
     <div class="shopbox2">
-        <img class="ad2" src="Images/GigaAd.png">
+        <ul class="slide">
+            <li>
+                <img id="img" alt="ads slide" src="Images/GigaAd.png">
+                <button onclick="imgChange()">Next Ad</button>
+            </li>
+        </ul>
     </div>
 </body>
